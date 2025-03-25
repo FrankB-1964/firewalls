@@ -1,0 +1,4 @@
+Prüft, welche Firewalls installiert sind und welche ggf aktiv sine
+
+mit chmod +x ausführbar machen
+starten mit sudo ./frewalls.sh
